@@ -27,3 +27,6 @@ Clone repository:
 ```bash
 git clone https://github.com/anggaariansyah/brick.git
 cd brick
+go mod tidy
+go run main.go
+
