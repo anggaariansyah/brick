@@ -1,4 +1,4 @@
-# THandphone Scraper
+# Handphone Scraper
 
 ## Deskripsi  
 Program ini adalah utilitas berbasis **Go** untuk mengekstrak **100 produk teratas** dari kategori **Mobile Phones / Handphone** di Tokopedia, lalu menyimpannya ke file CSV.  
